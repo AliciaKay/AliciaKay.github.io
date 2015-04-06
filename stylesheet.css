@@ -45,7 +45,7 @@ img {
 .left {
     border-radius:30px;
     background-color:#cccccc;
-    height:60%;
+    height:80%;
     width:20%;
     border: 2px dashed #794044;
     position: absolute;
@@ -56,7 +56,7 @@ img {
 .right {
     border-radius:30px;
     background-color:#cccccc;
-    height:60%;
+    height:80%;
     width:20%;
     border: 2px dashed #794044;
     position: absolute;
