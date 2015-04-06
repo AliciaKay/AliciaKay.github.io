@@ -19,12 +19,12 @@ img {
 #header {
     border-radius:40px;
     background-color:#aaaaaa;
-    height:30%;
+    height:20%;
     width: 95%;
     border: 2px dashed #dddddd;
     color: #794044;
     font-family: Courier;
-    bottom-margin: 4em;
+    margin-bottom: 4em;
     padding: auto;
     position: fixed;
     z-index: 1;
