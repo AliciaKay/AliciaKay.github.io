@@ -24,8 +24,8 @@ img {
     border: 2px dashed #dddddd;
     color: #794044;
     font-family: Courier;
-    margin-bottom: 4em;
-    padding: auto;
+    margin-bottom: 3%;
+    padding: 3%;
     position: fixed;
     z-index: 1;
 }
