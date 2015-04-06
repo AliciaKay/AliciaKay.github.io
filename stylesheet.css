@@ -45,8 +45,8 @@ img {
 .left {
     border-radius:30px;
     background-color:#cccccc;
-    height:55em;
-    width:5%;
+    height:60%;
+    width:20%;
     border: 2px dashed #794044;
     position: absolute;
     left: 0px;
@@ -56,8 +56,8 @@ img {
 .right {
     border-radius:30px;
     background-color:#cccccc;
-    height:55em;
-    width:5%;
+    height:60%;
+    width:20%;
     border: 2px dashed #794044;
     position: absolute;
     right: 0px;
