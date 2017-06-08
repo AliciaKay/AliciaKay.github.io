@@ -63,6 +63,15 @@ p {
 
 }
 
+ul {
+text-align: left;
+}
+ol {
+text-align: left;
+}
+li {
+text-align: left;
+}
 video {
 		border-radius: 15px;
 		padding: 10px;
@@ -138,5 +147,4 @@ margin-right: auto ;
 position: center;
 box-shadow: 2px 2px 8px gray;
 }
-
 
