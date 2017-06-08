@@ -1,11 +1,11 @@
 $(document).ready(function() {
-      $("#accordion").accordion({
+      $("#accordion","#work").accordion({
       	heightStyle: "content"
                 	});
-      $("#accordion").accordion({
+      $("#accordion", "#work").accordion({
       	collapsible: true
                 	});
-      $("#accordion").accordion({
+      $("#accordion", "#work").accordion({
       	active: false
     	});
   });
