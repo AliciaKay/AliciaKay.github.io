@@ -97,6 +97,7 @@ video {
   	margin-right: auto ;
   	position: center;
   	text-align: center;
+  	list-style-position: center;
   	box-shadow: 2px 2px 8px gray;
 
 }
@@ -115,6 +116,7 @@ video {
  
 #interests {
 	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: bold;
 	padding: 20px;
 	background: rgba(255, 255, 255, 0.8);
 	width: 80%;
@@ -136,3 +138,5 @@ margin-right: auto ;
 position: center;
 box-shadow: 2px 2px 8px gray;
 }
+
+
