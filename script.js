@@ -1,14 +1,8 @@
 $(document).ready(function() {
 
       $( "#accordion" ).accordion({
-      	heightStyle: "content"
-
-    	});
-      $( "#accordion" ).accordion({
-      	collapsible: true
-
-    	});
-      $( "#accordion" ).accordion({
+      	heightStyle: "content",
+      	collapsible: true,
       	active: false
 
     	});
