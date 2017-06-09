@@ -1,12 +1,17 @@
-$(document).ready(function() {
-      $("#accordion").accordion({
+	$(document).ready(function() {
+
+      $( "#accordion" ).accordion({
       	heightStyle: "content"
-                	});
-      $("#accordion").accordion({
+
+    	});
+      $( "#accordion" ).accordion({
       	collapsible: true
-                	});
-      $("#accordion").accordion({
+
+    	});
+      $( "#accordion" ).accordion({
       	active: false
+
     	});
 
-  });
+  } );
+
