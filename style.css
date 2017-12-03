@@ -78,6 +78,10 @@ li {
 text-align: left;
 
 }
+
+.center-list {
+	margin-left: 48%;
+}
 #videobox {
 		border-radius: 15px;
 		padding: 10px;
